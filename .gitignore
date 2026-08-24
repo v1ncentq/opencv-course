@@ -1,2 +1,5 @@
 .pylintrc
 .vscode/
+
+*.yml
+*.npy
